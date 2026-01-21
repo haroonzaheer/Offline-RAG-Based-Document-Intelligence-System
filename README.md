@@ -12,7 +12,7 @@ Generate embeddings with Ollama or CrossEncoder.
 
 Store and query embeddings in ChromaDB.
 
-#installation 
+# installation 
 # Clone the repo
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
